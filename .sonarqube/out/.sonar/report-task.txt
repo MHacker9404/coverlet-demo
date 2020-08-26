@@ -1,0 +1,6 @@
+projectKey=Coverlet-Demo
+serverUrl=http://localhost:10000
+serverVersion=8.4.1.35646
+dashboardUrl=http://localhost:10000/dashboard?id=Coverlet-Demo
+ceTaskId=AXQseC5xOI3DL_15zXqX
+ceTaskUrl=http://localhost:10000/api/ce/task?id=AXQseC5xOI3DL_15zXqX
